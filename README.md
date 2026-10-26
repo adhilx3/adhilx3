@@ -46,9 +46,9 @@ I'm an **Information Security student** pursuing an **Advanced Diploma in Inform
 
 - [x] Python, C++ and JavaScript fundamentals
 - [ ] CEH exam preparation
-- [ ] Networking (TCP/IP, DNS, HTTP, firewalls)
+- [x] Networking (TCP/IP, DNS, HTTP, firewalls)
 - [ ] OWASP Top 10 and web application security
-- [ ] Linux privilege escalation basics
+- [x] Linux privilege escalation basics
 - [ ] CTFs and hands-on labs on [TryHackMe](https://tryhackme.com/p/adhil.parokkot)
 
 ---
@@ -61,6 +61,7 @@ I'm an **Information Security student** pursuing an **Advanced Diploma in Inform
 | [**Jarvis**](https://github.com/adhilx3/Jarvis-) | Personal AI chatbot and voice assistant | Python |
 | [**Phishing Detector**](https://github.com/adhilx3/Phishing-Detector) | Tool to detect phishing attempts | Python |
 | [**Port Scanner**](https://github.com/adhilx3/PortScanner-Using-Nmap) | Port scanner built on Nmap | Python, Nmap |
+| [**V-Scan**](https://github.com/adhilx3/V-Scan-by-dazai.git) | File/URL Integrity Checker | Python |
 
 > 🚧 More projects coming as I learn. All security tools are built for **educational use in legal, authorized environments only**.
 
