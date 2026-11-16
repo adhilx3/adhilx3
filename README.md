@@ -83,8 +83,8 @@ I focus on **defensive automation**, **protocol reconnaissance**, and **threat t
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhilx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Adhil's GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhilx3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilx3&theme=tokyonight" alt="Adhil's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilx3&theme=tokyonight" alt="Top Languages" />
 
 <br/><br/>
 
