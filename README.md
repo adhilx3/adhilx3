@@ -83,12 +83,12 @@ I focus on **defensive automation**, **protocol reconnaissance**, and **threat t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhilx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Adhil's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilx3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhilx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Adhil's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhilx3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhilx3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=adhilx3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
